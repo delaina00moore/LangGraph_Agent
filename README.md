@@ -1,4 +1,4 @@
-# LangGraph_Agent
+# Travel Advisor Agent
 
 Quick example of a LangGraph-based travel advisor that uses Google Gemini via `langchain-google-genai`.
 
